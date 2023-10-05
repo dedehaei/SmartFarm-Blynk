@@ -1,6 +1,6 @@
-#define BLYNK_TEMPLATE_ID "TMPL6P2cnlI8n"
+#define BLYNK_TEMPLATE_ID "YOUR_BLYNK_TEMPLATE_ID"
 #define BLYNK_TEMPLATE_NAME "Hidroponik sytem"
-#define BLYNK_AUTH_TOKEN "2ZunsUuUNMNsJwxj0zZsGIxTDEOkD4aH"
+#define BLYNK_AUTH_TOKEN "YOUR_BLYNK_AUTH_TOKEN"
 #define BLYNK_PRINT Serial
 
 #include <WiFi.h>
